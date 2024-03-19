@@ -8,20 +8,14 @@
 <link href="style.css"rel="stylesheet"type="text/css" />
 </head>
 <body>
-<h1>
-𝓵𝓸𝓰𝓲𝓷
-</h1>
+<h1>login</h1>
+ <p>username</p> 
+<input>
+<p>password </p>
+</head>
+<body>
 
-<p>
-username
-</p>
-<input name=""value="" />
-<p>
-password
-</p>
-<input name=""value="" type=""password/>
-<p>
-<button>login<button/>
+
 
 
 
